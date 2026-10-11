@@ -11,5 +11,5 @@ You can view my work by clicking the links in the about section of my repos, or 
 I also upload some of my simple research projects on [zenodo](https://zenodo.org/), and you can find my datasets and ml models on my [hugging face account](https://huggingface.co/ml-remunn) account.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rcbalingbing/rcbalingbing/main/assets/monkey-six-seven-sticker.gif" alt="6-7" width="600" height="600">
+  <img src="https://raw.githubusercontent.com/rcbalingbing/rcbalingbing/main/assets/monkey-six-seven-sticker.gif" alt="6-7" width="260" height="260">
 </p>
